@@ -39,7 +39,7 @@ Cela déploiera l’application sur [https://staging.openpracticelibrary.com](ht
 ## Contribuer
 
 Pour commencer à contribuer du contenu, consultez le [guide de contribution](https://openpracticelibrary.com/page/contribution-guide). 
-Pour commencer à contribuer au code, consultez le [guide de développement]((DEVELOPING.md).
+Pour commencer à contribuer au code, consultez le [guide de développement](DEVELOPING.md).
 
 Vous pouvez même contribuer au [financement de la bibliothèque libre des pratiques](https://opencollective.com/openpracticelibrary).
 
